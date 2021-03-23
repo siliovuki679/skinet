@@ -1,9 +1,7 @@
 namespace Core.Entities
 {
-    public class UploadDocument
+    public class UploadDocument: BaseEntity
     {
-        public int id { get; set; }
-
         public string name { get; set; }
     }
 }
