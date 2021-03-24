@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VW6YCzY48SHYIQKp6hTBbKDRhI7mUzGe/e6P6wyMRdFi6G6zsSRTNq71ZcXWxz5w1YqqMO53Z2J0IdlwjGmIgg==",
+  "dgSpecHash": "A1o6GEXPMwvgzJj2RBmkWDf0MUDvw75HowTQ7zMbA2aDRCYqJM1sfOBbybJj9Xch8J5j4jDoCHtJFwDH82PxBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Documents\\Projects\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
